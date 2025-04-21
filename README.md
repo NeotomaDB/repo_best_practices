@@ -21,6 +21,14 @@ Check this if necessary for your specific project.
 ### License
 All repos should have an appropriate license. The MIT license is a good default for NeotomaDB repos.
 
-## Minimum Guidelines
+## README
+### General advice
+### Badges
+
 
 ## Other Recommended Practices
+### Code of Conduct
+### Website
+### Topics
+### Releases
+### Citations
