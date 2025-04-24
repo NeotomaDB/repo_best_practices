@@ -63,6 +63,8 @@ Most open-source projects adopt a standard Code of Conduct, which outlines neces
 If your repository has a related website or documentaion hub, include the link in your repo settings and mention it in the README
 ### Topics
 Use Github's "topics" feature to tag your reposutory with relevant keywords (e.g, neotomadb, paleoecology, data, R, JS, etc.)
+
+
 This improves discoverability and helps categorize your repo for others in the community.
 ### Releases
 Use Github Releases to provided downoadable version of your project, including versioned snapshots of documentation or templates.
@@ -71,4 +73,6 @@ Use Github Releases to provided downoadable version of your project, including v
 Even if your repo isn't code-based, you can tag major updates to show development. 
 ### Citations
 Encourage users to cite you work if they use your software, package, documentation, etc.
+
+
 You can include a *Citation.CFF* file in the root of your repo (GitHub will automatically offer citation info)
