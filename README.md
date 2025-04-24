@@ -30,9 +30,12 @@ All repos should have an appropriate license. The MIT license is a good default 
 ## README
 ### General advice
 Your repositories README should provide a brief yet informative description of the repository's goal or mission (what it does, why it matters etc.) 
+
 This should allow new users or collaborators to understand the context of the project without having to sift through excessive or irrelevant information. 
 ### Badges
-Badges provide at-a-glance information about a project's status, funding, and more. They improve the readbility of your repository by quickly communicating key project metadata
+Badges provide at-a-glance information about a project's status, funding, and more. 
+
+They improve the readbility of your repository by quickly communicating key project metadata
 Including badges helps show that a project is actively maintained, clearly supported, and easy to trust
 
 ***-Lifecycle Badges*** 
