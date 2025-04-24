@@ -37,7 +37,9 @@ Learn more about [lifecycle stages here](https://lifecycle.r-lib.org/articles/st
 These badges recognize the support of specific NSF grants and link to their award details
 
 **Badge Display + Markdown Code**
+
 ![Badge Display](Example-badge-image.png)
+
 ![Markdown Code](Badge-code.png)
 
 ## Other Recommended Practices
