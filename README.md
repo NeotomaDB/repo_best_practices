@@ -31,6 +31,7 @@ All repos should have an appropriate license. The MIT license is a good default 
 ### General advice
 Your repositories README should provide a brief yet informative description of the repository's goal or mission (what it does, why it matters etc.) 
 
+
 This should allow new users or collaborators to understand the context of the project without having to sift through excessive or irrelevant information. 
 ### Badges
 Badges provide at-a-glance information about a project's status, funding, and more. 
@@ -58,6 +59,7 @@ These badges recognize the support of specific NSF grants and link to their awar
 ### Code of Conduct
 Include a Contributor Code of Conduct to help ensure a respectful, inclusive, and harassment-free environment for all contributors. This sets a clear tone for collaboration. 
 
+
 Most open-source projects adopt a standard Code of Conduct, which outlines necessary expectations for behavior and procedures regarding the reports of misconduct.
 ### Website
 If your repository has a related website or documentaion hub, include the link in your repo settings and mention it in the README
@@ -65,7 +67,9 @@ If your repository has a related website or documentaion hub, include the link i
 Use Github's "topics" feature to tag your reposutory with relevant keywords (e.g, neotomadb, paleoecology, data, R, JS, etc.)
 This improves discoverability and helps categorize your repo for others in the community.
 ### Releases
-Use Github Releases to provided downoadavle version of your project, including versioned snapshots of documentation or templates.
+Use Github Releases to provided downoadable version of your project, including versioned snapshots of documentation or templates.
+
+
 Even if your repo isn't code-based, you can tag major updates to show development. 
 ### Citations
 Encourage users to cite you work if they use your software, package, documentation, etc.
