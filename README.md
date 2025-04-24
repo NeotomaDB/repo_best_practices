@@ -36,6 +36,7 @@ This should allow new users or collaborators to understand the context of the pr
 Badges provide at-a-glance information about a project's status, funding, and more. 
 
 They improve the readbility of your repository by quickly communicating key project metadata
+
 Including badges helps show that a project is actively maintained, clearly supported, and easy to trust
 
 ***-Lifecycle Badges*** 
@@ -56,6 +57,7 @@ These badges recognize the support of specific NSF grants and link to their awar
 ## Other Recommended Practices
 ### Code of Conduct
 Include a Contributor Code of Conduct to help ensure a respectful, inclusive, and harassment-free environment for all contributors. This sets a clear tone for collaboration. 
+
 Most open-source projects adopt a standard Code of Conduct, which outlines necessary expectations for behavior and procedures regarding the reports of misconduct.
 ### Website
 If your repository has a related website or documentaion hub, include the link in your repo settings and mention it in the README
