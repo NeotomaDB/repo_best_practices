@@ -1,3 +1,9 @@
+<!-- badges: start -->
+
+[![lifecycle](https://img.shields.io/badge/lifecycle-active-green.svg)](https://www.tidyverse.org/lifecycle/#active)
+
+<!-- badges: end -->
+
 # Neotoma GitHub Repo Best Practices
 A repo that describes the recommended practices for setting up new repositories within the Neotoma Paleoecology Database.
 
