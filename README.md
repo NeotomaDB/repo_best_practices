@@ -61,6 +61,8 @@ Include a Contributor Code of Conduct to help ensure a respectful, inclusive, an
 Most open-source projects adopt a standard Code of Conduct, which outlines necessary expectations for behavior and procedures regarding the reports of misconduct.
 ### Website
 If your repository has a related website or documentaion hub, include the link in your repo settings and mention it in the README
+
+If there is ***no specific website for your project***, you can link to the [Neotoma Paleoecology Database](https://www.neotomadb.org) as the relevant organizational or umbrella website.
 ### Topics
 Use Github's "topics" feature to tag your reposutory with relevant keywords (e.g, neotomadb, paleoecology, data, R, JS, etc.)
 
