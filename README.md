@@ -74,7 +74,7 @@ Use Github Releases to provided downloadable versions of your project, including
 
 Even if your repo isn't code-based, you can tag major updates to show development. 
 ### Citations
-Encourage users to cite you work if they use your software, package, documentation, etc.
+Encourage users to cite your work if they use your software, package, documentation, etc.
 
 
 You can include a *Citation.CFF* file in the root of your repo (GitHub will automatically offer citation info)
