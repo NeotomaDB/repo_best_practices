@@ -2,10 +2,11 @@
 
 ![lifecycle](https://img.shields.io/badge/lifecycle-active-green.svg)
 [![NSF-2410965](https://img.shields.io/badge/NSF-2410965-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2410965&HistoricalAwards=false)
+[![NSF-2410961](https://img.shields.io/badge/NSF-2410961-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2410961&HistoricalAwards=false)
 
 <!-- badges: end -->
 
-# Neotoma GitHub Repo Best Practices
+# Best Practices for Neotoma GitHub Repos
 A repo that describes the recommended practices for setting up new repositories within the Neotoma Paleoecology Database.
 
 ## Initial Set up
