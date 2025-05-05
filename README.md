@@ -1,6 +1,7 @@
 <!-- badges: start -->
 
 ![lifecycle](https://img.shields.io/badge/lifecycle-active-green.svg)
+[![NSF-2410965](https://img.shields.io/badge/NSF-2410965-blue.svg)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2410965&HistoricalAwards=false)
 
 <!-- badges: end -->
 
