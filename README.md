@@ -57,8 +57,9 @@ These badges recognize the support of specific NSF grants and link to their awar
 ```
 <!-- badges: start -->
 
-[![lifecycle](https://img.shields.io/badge/lifecycle-superseded-orange.svg)](https://github.com/NeotomaDB/Workshops/#superseded)
+[![lifecycle](https://img.shields.io/badge/lifecycle-active-green.svg)](https://github.com/NeotomaDB/Workshops/#superseded)
 [![NSF-1948926](https://img.shields.io/badge/NSF-1948926-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=1948926)
+[![NSF-2410961](https://img.shields.io/badge/NSF-2410961-blue.svg)](https://nsf.gov/awardsearch/showAward?AWD_ID=2410961)
 
 <!-- badges: end -->
 ```
