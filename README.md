@@ -44,35 +44,70 @@ Including badges helps show that a project is actively maintained, clearly suppo
 
 Lifecycle badges indicate the current development status of the project.
 
+
 **Experimental**
 
 The experimental badge indicates the project is in an early stage of development. It is subject to rapid changes, and features may be incomplete or unstable. 
+
+```
+[![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#experimental)
+
+```
 
 **Stable**
 
 The stable badge indicates the project is stable but not as actively maintained. It is unlikely to have a significant change added, also considered production-ready.
 
+```
+[![lifecycle](https://img.shields.io/badge/lifecycle-stable-green.svg)]
+
+```
+
 **Active**
 
 The active badge indicates the project is developed and maintained. Features or any singificant changes may still be added.
+
+```
+[![lifecycle](https://img.shields.io/badge/lifecycle-active-green.svg)]
+
+```
 
 **Archived**
 
 The archived badge indicates the project is no longer maintained. It is preserved for reference, but updates and support are not provided. 
 
+```
+[![lifecycle](https://img.shields.io/badge/lifecycle-archived-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#archived)
+
+```
+
 **Deprecated**
 
 The deprecated badge indicates the project is no longer recommended for use. It may be removed in the future, and should have a link to the relevant repo (if applicable).
+
+```
+[![lifecycle](https://img.shields.io/badge/lifecycle-deprecated-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#deprecated)
+
+```
 
 **Superseded**
 
 The superseded badge indicates the project has been replaced by a newer or more complete solution. Users should migrate to the successor project. 
 
+```
+[![lifecycle](https://img.shields.io/badge/lifecycle-superseded-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#superseded/or link to successor repo)
+
+```
+
 **Paused**
 
 The paused badge indicates the projects' development and maintenance has been temporarily put on hold. This badge implies updates to the repo will, most likely, resume. 
-<!-- Learn more about [lifecycle stages here](https://lifecycle.r-lib.org/articles/stages.html). -->
 
+```
+
+[![lifecycle](https://img.shields.io/badge/lifecycle-paused-orange.svg)]
+
+```
 ***-NSF Grant Badges***
 
 These badges recognize the support of specific NSF grants and link to their award details.
@@ -91,6 +126,8 @@ These badges recognize the support of specific NSF grants and link to their awar
 
 <!-- badges: end -->
 ```
+
+
 
 ## Other Recommended Practices
 ### Code of Conduct
