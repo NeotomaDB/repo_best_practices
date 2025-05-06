@@ -42,7 +42,9 @@ Including badges helps show that a project is actively maintained, clearly suppo
 
 ***-Lifecycle Badges*** 
 
-Lifecycle badges indicate the current development status of the project.
+Lifecycle badges indicate the current development status of the project. 
+
+These badges are adapted from the [r-lib lifecycle stages](https://lifecycle.r-lib.org/articles/stages.html) and use [shields.io](https://shields.io/) for badge rendering. The Neotoma version uses modified definitions and badges to better reflect internal project workflows and standards.
 
 
 **Experimental**
