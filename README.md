@@ -107,7 +107,7 @@ The superseded badge indicates the project has been replaced by a newer or more 
 
 The paused badge indicates the projects' development and maintenance has been temporarily put on hold. This badge implies updates to the repo will, most likely, resume. 
 
-*Note: We cannot link to a formal lifecycle stage for "paused" as it is not part of the traditional classificiation. *
+*Note: We cannot link to a formal lifecycle stage for "paused" as it is not part of the traditional classificiation.*
 
 ```
 
