@@ -60,16 +60,14 @@ The experimental badge indicates the project is in an early stage of development
 
 The stable badge indicates the project is stable but not as actively maintained. It is unlikely to have a significant change added, also considered production-ready. 
 
-*Note: We cannot link to a formal lifecycle stage for "stable" as it is not part of the traditional classificiation.*
-
 ```
-[![lifecycle](https://img.shields.io/badge/lifecycle-stable-green.svg)]
+[![lifecycle](https://img.shields.io/badge/lifecycle-stable-green.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 
 ```
 
 **Active**
 
-The active badge indicates the project is developed and maintained. Features or any singificant changes may still be added.
+The active badge indicates the project is developed and maintained. Features or any changes may still be added.
 
 *Note: We cannot link to a formal lifecycle stage for "active" as it is not part of the traditional classification.*
 
@@ -108,6 +106,8 @@ The superseded badge indicates the project has been replaced by a newer or more 
 **Paused**
 
 The paused badge indicates the projects' development and maintenance has been temporarily put on hold. This badge implies updates to the repo will, most likely, resume. 
+
+*Note: We cannot link to a formal lifecycle stage for "paused" as it is not part of the traditional classificiation. *
 
 ```
 
