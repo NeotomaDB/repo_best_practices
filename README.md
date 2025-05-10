@@ -58,7 +58,9 @@ The experimental badge indicates the project is in an early stage of development
 
 **Stable**
 
-The stable badge indicates the project is stable but not as actively maintained. It is unlikely to have a significant change added, also considered production-ready.
+The stable badge indicates the project is stable but not as actively maintained. It is unlikely to have a significant change added, also considered production-ready. 
+
+*Note: We cannot link to a formal lifecycle stage for "stable" as it is not part of the traditional classificiation.*
 
 ```
 [![lifecycle](https://img.shields.io/badge/lifecycle-stable-green.svg)]
@@ -68,6 +70,8 @@ The stable badge indicates the project is stable but not as actively maintained.
 **Active**
 
 The active badge indicates the project is developed and maintained. Features or any singificant changes may still be added.
+
+*Note: We cannot link to a formal lifecycle stage for "active" as it is not part of the traditional classification.*
 
 ```
 [![lifecycle](https://img.shields.io/badge/lifecycle-active-green.svg)]
@@ -136,7 +140,7 @@ These badges recognize the support of specific NSF grants and link to their awar
 Include a Contributor Code of Conduct to help ensure a respectful, inclusive, and harassment-free environment for all contributors. This sets a clear tone for collaboration. 
 
 
-This repository contains a standard Code of Conduct, which outlines necessary expectations for behavior and procedures regarding the reports of misconduct. This is the default Code of Conduct for Neotoma. 
+This repository contains a standard Code of Conduct in the files section, which outlines necessary expectations for behavior and procedures regarding the reports of misconduct. This is the default Code of Conduct for Neotoma. 
 ### Website
 If your repo has a related website or documentaion hub, include the link in your repo settings and mention it in the README.
 
