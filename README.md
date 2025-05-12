@@ -56,18 +56,9 @@ The experimental badge indicates the project is in an early stage of development
 
 ```
 
-**Stable**
-
-The stable badge indicates the project is stable but not as actively maintained. It is unlikely to have a significant change added, also considered production-ready. 
-
-```
-[![lifecycle](https://img.shields.io/badge/lifecycle-stable-green.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
-
-```
-
 **Active**
 
-The active badge indicates the project is developed and maintained. Features or any changes may still be added.
+The active badge indicates the project is developed and maintained. New features may be added, but they would integrate into a mature project; also considered production-ready.
 
 *Note: We cannot link to a formal lifecycle stage for "active" as it is not part of the traditional classification.*
 
@@ -76,30 +67,12 @@ The active badge indicates the project is developed and maintained. Features or 
 
 ```
 
-**Archived**
+**Stable**
 
-The archived badge indicates the project is no longer maintained. It is preserved for reference, but updates and support are not provided. 
-
-```
-[![lifecycle](https://img.shields.io/badge/lifecycle-archived-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#archived)
+The stable badge indicates the project is stable but not actively maintained unless needed. It is unlikely to experience significant changes; also considered production-ready.
 
 ```
-
-**Deprecated**
-
-The deprecated badge indicates the project is no longer recommended for use. It may be removed in the future, and should have a link to the relevant repo (if applicable).
-
-```
-[![lifecycle](https://img.shields.io/badge/lifecycle-deprecated-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#deprecated)
-
-```
-
-**Superseded**
-
-The superseded badge indicates the project has been replaced by a newer or more complete solution. Users should migrate to the successor project. 
-
-```
-[![lifecycle](https://img.shields.io/badge/lifecycle-superseded-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#superseded/or link to successor repo)
+[![lifecycle](https://img.shields.io/badge/lifecycle-stable-green.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 
 ```
 
@@ -114,6 +87,34 @@ The paused badge indicates the projects' development and maintenance has been te
 [![lifecycle](https://img.shields.io/badge/lifecycle-paused-orange.svg)]
 
 ```
+
+**Archived**
+
+The archived badge indicates the project is no longer maintained. It is preserved for reference, but updates and support are not provided. 
+
+```
+[![lifecycle](https://img.shields.io/badge/lifecycle-archived-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#archived)
+
+```
+
+**Deprecated**
+
+The deprecated badge indicates the project is no longer recommended for use. It may be removed in the future. If there is a different recommended repo, it may have a link to the relevant repo.
+
+```
+[![lifecycle](https://img.shields.io/badge/lifecycle-deprecated-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#deprecated)
+
+```
+
+**Superseded**
+
+The superseded badge indicates the project has been replaced by a newer or more complete solution. Users should migrate to the successor project. A link has been provided to the new project.
+
+```
+[![lifecycle](https://img.shields.io/badge/lifecycle-superseded-orange.svg)](https://lifecycle.r-lib.org/articles/stages.html#superseded/or link to successor repo)
+
+```
+
 ***-NSF Grant Badges***
 
 These badges recognize the support of specific NSF grants and link to their award details.
